@@ -8,7 +8,6 @@
 
 ![Student](https://img.shields.io/badge/Electrical%20Engineering-Student-6A0DAD?style=for-the-badge&logo=electron&logoColor=white)
 ![Location](https://img.shields.io/badge/Indonesia-ID-A855F7?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/I%20use%20Arch-BTW-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
 <br/>
 
