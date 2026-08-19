@@ -32,24 +32,24 @@
 const adityaRiqi = {
   role        : "Full Stack Developer & IoT Engineer",
   location    : "Indonesia 🇮🇩",
-  username    : "AdtyRz",
+  username    : "dfxyam",
   primaryStack: ["Laravel", "Next.js", "ESP32"],
-  os          : "Arch Linux (btw)",
+  os          : "Windows",
   editor      : "VS Code",
-  shell       : "zsh + Hyprland",
   uptime      : "99.9%",
   coffeLevel  : "92%",
   motivation  : "100%",
   currentFocus: "Building cool stuff",
-  nowPlaying  : "Untukku - Chrisye 🎵",
-  funFact     : "My orange cat has a +35% productivity bonus & +98% interruption rate",
+  nowPlaying  : "Tear - Rich Brian 🎵",
+  funFact     : "My black cat has a +35% productivity bonus & +98% interruption rate",
   quote       : "The best engineer is not the one who knows everything, but the one who is always curious to learn."
 };
 ```
 
 I'm a passionate **Full Stack Developer** from Indonesia who enjoys building modern web applications, backend systems, and open-source projects. My primary stack revolves around **Laravel** and **Next.js**, while continuously exploring cloud technologies, DevOps workflows, and AI-powered applications.
 
-When I'm not coding, you'll probably find me customizing **Arch Linux**, experimenting with self-hosted services, or spending time with orange cats. 🐈
+When I'm not coding, you'll probably find me singing or cover song, experimenting with self-hosted services, or spending time with black cats. <img width="364" height="480" alt="FreakCatMemeGIF" src="https://github.com/user-attachments/assets/313c5c40-e635-48ea-9fbc-76478cfa6bca" />
+
 
 **Open To:** Open Source Collaboration · Full Stack Projects · Laravel · Next.js · Student Developer Communities · Learning Opportunities
 
@@ -108,7 +108,6 @@ When I'm not coding, you'll probably find me customizing **Arch Linux**, experim
 | **Backend Engineering** | ⭐⭐⭐ Intermediate | REST API, Authentication Systems |
 | **IoT & Embedded Systems** | ⭐⭐⭐ Intermediate | ESP32, ESP8266, MQTT, Fingerprint |
 | **Database Design** | ⭐⭐⭐ Intermediate | MySQL, PostgreSQL, SQLite |
-| **Linux Systems** | ⭐⭐⭐ Intermediate | Arch Linux, Nginx, Self-Hosting |
 | **Version Control** | ⭐⭐⭐⭐ Advanced | Git & GitHub Workflows |
 | **DevOps** | ⭐⭐ Learning | Docker, Nginx, CI/CD |
 | **AI Integration** | ⭐⭐ Learning | AI APIs & Automation |
@@ -195,7 +194,6 @@ Actively building a strong engineering foundation through hands-on project devel
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
@@ -207,7 +205,6 @@ Actively building a strong engineering foundation through hands-on project devel
 | 🏅 Recognition | 📋 Details |
 |:---:|:---|
 | **Open Source Learner** | Actively learning and contributing to the GitHub ecosystem |
-| **Linux Enthusiast** | Daily Arch Linux power user — btw |
 | **Full Stack Explorer** | Building production-grade apps with Laravel & Next.js |
 | **IoT Builder** | Integrating hardware & software with ESP32 & sensor systems |
 | **Student Developer** | Continuous self-directed learning journey in software engineering |
@@ -225,7 +222,6 @@ Actively building a strong engineering foundation through hands-on project devel
 ![Laravel](https://img.shields.io/badge/Laravel%20Certification-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Future%20Goal-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-Future%20Goal-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-Future%20Goal-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 *Actively working toward professional certifications in cloud, networking, and framework expertise.*
 
@@ -250,12 +246,12 @@ Actively building a strong engineering foundation through hands-on project devel
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdtyRz&show_icons=true&theme=tokyonight&bg_color=0D0D1A&title_color=A855F7&text_color=E0E0E0&icon_color=7C3AED&border_color=6A0DAD&hide_border=false&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdtyRz&layout=compact&theme=tokyonight&bg_color=0D0D1A&title_color=A855F7&text_color=E0E0E0&border_color=6A0DAD&hide_border=false" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dfxyam&show_icons=true&theme=tokyonight&bg_color=0D0D1A&title_color=A855F7&text_color=E0E0E0&icon_color=7C3AED&border_color=6A0DAD&hide_border=false&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfxyam&layout=compact&theme=tokyonight&bg_color=0D0D1A&title_color=A855F7&text_color=E0E0E0&border_color=6A0DAD&hide_border=false" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=AdtyRz&theme=tokyonight&background=0D0D1A&border=6A0DAD&ring=A855F7&fire=7C3AED&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=dfxyam&theme=tokyonight&background=0D0D1A&border=6A0DAD&ring=A855F7&fire=7C3AED&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak"/>
 
 </div>
 
@@ -265,7 +261,7 @@ Actively building a strong engineering foundation through hands-on project devel
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AdtyRz&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=1&column=7&title_color=A855F7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dfxyam&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=1&column=7&title_color=A855F7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -275,7 +271,7 @@ Actively building a strong engineering foundation through hands-on project devel
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdtyRz&bg_color=0D0D1A&color=A855F7&line=7C3AED&point=ffffff&area=true&area_color=6A0DAD&hide_border=false&border_color=6A0DAD" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dfxyam&bg_color=0D0D1A&color=A855F7&line=7C3AED&point=ffffff&area=true&area_color=6A0DAD&hide_border=false&border_color=6A0DAD" alt="Contribution Graph"/>
 
 </div>
 
