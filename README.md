@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Aditya%20Riqi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20IoT%20Engineer%20%E2%80%A2%20Electrical%20Engineering%20Student&descAlignY=55&descSize=18" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Dzakwan%20Hisyam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20IoT%20Engineer%20%E2%80%A2%20Electrical%20Engineering%20Student&descAlignY=55&descSize=18" alt="header"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+hardware+and+software+together%2C;one+idea+at+a+time.+%F0%9F%90%BE;Laravel+%7C+Next.js+%7C+IoT+%7C+Arch+Linux;Powered+by+Orange+Cat+Energy+%F0%9F%9F%A0" alt="Typing SVG" /></a>
 
