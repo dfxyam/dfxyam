@@ -11,16 +11,16 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/AdtyRz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/dfxyam)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-riqi-6a31783b3/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.riqi1003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dfxyam)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AdtyRz&style=for-the-badge&color=6A0DAD)
-![Followers](https://img.shields.io/github/followers/AdtyRz?style=for-the-badge&color=A855F7&labelColor=1a1a2e&label=Followers)
-![Stars](https://img.shields.io/github/stars/AdtyRz?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=dfxyam&style=for-the-badge&color=6A0DAD)
+![Followers](https://img.shields.io/github/followers/dfxyam?style=for-the-badge&color=A855F7&labelColor=1a1a2e&label=Followers)
+![Stars](https://img.shields.io/github/stars/dfxyam?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&label=Stars)
 
 </div>
 
@@ -282,9 +282,9 @@ Actively building a strong engineering foundation through hands-on project devel
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdtyRz/AdtyRz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdtyRz/AdtyRz/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AdtyRz/AdtyRz/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dfxyam/dfxyam/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dfxyam/dfxyam/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dfxyam/dfxyam/output/github-snake.svg" />
 </picture>
 
 > Setup snake: Add [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo.
@@ -296,7 +296,7 @@ Actively building a strong engineering foundation through hands-on project devel
 ## 🎯 Current Focus
 
 ```yaml
-# aditya-riqi.config.yml
+# dzakwan-hisyam.config.yml
 
 learning:
   - Advanced Laravel Concepts (Queues, Events, Broadcasting)
@@ -312,7 +312,6 @@ building:
 exploring:
   - AI Integration & Automation APIs
   - DevOps & Self-Hosting Infrastructure
-  - Linux System Administration
   - Embedded Systems & Sensor Networks
 
 open_to:
@@ -364,8 +363,8 @@ $ cat /proc/orange_cat/status
 
 [![Gmail](https://img.shields.io/badge/Gmail-addtya.riqi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:addtya.riqi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@AdtyRz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdtyRz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/AdtyRz)
+[![GitHub](https://img.shields.io/badge/GitHub-@dfxyam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dfxyam)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/dfxyam)
 
 </div>
 
@@ -380,7 +379,7 @@ $ cat /proc/orange_cat/status
 **Code. Build. Break. Fix. Improve. Repeat.**
 **Stay hungry, stay foolish.** 🐈
 
-*Made with ❤️ and lots of 🐾 Orange Cat Energy by Aditya Riqi*
+*Made with ❤️ and lots of 🐾 Orange Cat Energy by Dzakwan Hisyam*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer&animation=fadeIn" alt="footer"/>
 
