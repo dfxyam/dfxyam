@@ -12,8 +12,8 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/dfxyam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-riqi-6a31783b3/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.riqi1003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzakwan-hisyam-6a31783b3/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dfxyam269@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dfxyam)
 
 <br/>
@@ -29,7 +29,7 @@
 ## 👾 About Me
 
 ```typescript
-const adityaRiqi = {
+const DzakwanHisyam = {
   role        : "Full Stack Developer & IoT Engineer",
   location    : "Indonesia 🇮🇩",
   username    : "dfxyam",
